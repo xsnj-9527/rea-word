@@ -19,3 +19,6 @@ installer_out/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# --- build script temp ---
+release_notes.md
