@@ -1,0 +1,21 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# --- PyInstaller ---
+build/
+dist/
+*.manifest
+
+# --- Inno Setup output ---
+installer_out/
+
+# --- editors / OS ---
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
