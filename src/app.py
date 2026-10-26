@@ -15,7 +15,7 @@ from docx2html import convert
 
 APP_TITLE = "DocPreview"
 APP_ID = "DocPreview"
-VERSION = "1.0.1"
+VERSION = "1.0.2"
 
 
 def _base_dir():
